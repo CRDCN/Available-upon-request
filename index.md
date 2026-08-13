@@ -13,6 +13,12 @@ In Canada, progress has been limited with respect to supporting the findability 
 
 The AUR project surveys Canadian researchers from 2016 to present (2026) who have indicated in publications that their data is “available upon request”.
 
+## Project team
+
+ - Kevin Read, Principal Investigator, Research Data Management Librarian, University of Saskatchewan. https://library.usask.ca/people/kevin-read.php  
+ - Dylanne Dearborn, Co-investigator, Research Data Management Coordinator, University of Toronto 
+ - Grant Gibson, Co-investigator, Assistant Director, Research & Evaluation - Canadian Research Data Centre Network, McMaster University 
+
 ## Project goals
 
 * To better understand how researchers navigate requests for, and provide access to restricted data;
