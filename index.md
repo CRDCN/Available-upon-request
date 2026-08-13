@@ -1,10 +1,7 @@
-\---
-
+---
 layout: default
-
 title: home
-
-\---
+---
 
 
 
