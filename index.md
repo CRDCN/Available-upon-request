@@ -31,6 +31,10 @@ The AUR project surveys Canadian researchers from 2016 to present (2026) who hav
 
 [Download Survey](Survey content/survey_p1.pdf)
 
+### Sampling
+
+[s3 access](PMC access/s3_pmc_evaluate.R) - This script was used to access the PubMed Central database on the Amazon s3 clusters and filter for available upon request and Canadian authorship.
+
 ### Research data
 
 Coming soon! This section will post the multiple choice and coded (as well as de-identified) text responses from our survey as we finish data collection and they become available. 
